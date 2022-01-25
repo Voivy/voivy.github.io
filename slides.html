@@ -14,10 +14,10 @@
 		<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/highlight.js@11.4.0/styles/github-dark.css" id="highlight-theme">
 
 	</head>
-	<body>
+	<body onload="load_file()">
 		<div class="reveal">
 			<div class="slides">
-        <section data-markdown="md-slides/example.md"
+        <section data-markdown="slides-md/example.md"
 				         data-separator="^---\n"
 				         data-separator-vertical="^--\n"
 				         data-separator-notes="^Note:"
@@ -35,7 +35,7 @@
 		<script>
 			function load_file(){
 				const file = new URLSearchParams(window.location.search).get('file');
-				document.getElementsByTagName('section')[0].setAttribute('data-markdown', 'md-slides/' + file + '.md');
+				document.getElementsByTagName('section')[0].setAttribute('data-markdown', 'slides-md/' + file + '.md');
 			}
 
 			Reveal.initialize({
