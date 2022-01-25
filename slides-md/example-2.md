@@ -6,7 +6,7 @@
 ---
 #### Zkouška kódu a highlight.js
 
-```cs [1-16|3,2,16|4,5,14,15|6-13|1-16] <!-- .element: class="r-stretch" -->
+```cs [1-16|3,2,16|4,5,14,15|6-13|1-16]
 //Vykreslování "čtverců" ze znaku * v C#
 for (int i = 1; i <= delka; i++)
 {
@@ -24,6 +24,7 @@ for (int i = 1; i <= delka; i++)
 	Console.Write("\n");
 }
 ```
+<!-- .element: class="r-stretch" -->
 ---
 #### Zkouška KaTeX
 
