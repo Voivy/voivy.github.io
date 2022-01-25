@@ -6,7 +6,7 @@
 ---
 #### Zkouška kódu a highlight.js
 
-```cs [1-16|3,2,16|4,5,14,15|6-13|1-16]
+```cs [1-16|3,2,16|4,5,14,15|6-13|1-16] <!-- .element: class="r-stretch" -->
 //Vykreslování "čtverců" ze znaku * v C#
 for (int i = 1; i <= delka; i++)
 {
@@ -28,7 +28,9 @@ for (int i = 1; i <= delka; i++)
 #### Zkouška KaTeX
 
 `$$ x_1, x_2 = \frac{-b \pm \sqrt{b^2 - 4ac}}{2a} $$`
+
 `$$ a^2 = b^2 + c^2 - 2bc \cdot \cos \alpha $$`
+
 `$$ \cos (\varphi) = \frac{\vec{u} \cdot \vec{v}}{|\vec{u}| \cdot |\vec{v}|} $$`
 ---
 ## Konec
