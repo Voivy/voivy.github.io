@@ -14,7 +14,7 @@
 		<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/highlight.js@11.4.0/styles/github-dark.css" id="highlight-theme">
 
 	</head>
-	<body onload="load_file()">
+	<body>
 		<div class="reveal">
 			<div class="slides">
         <section data-markdown="slides-md/example.md"
@@ -23,6 +23,10 @@
 				         data-separator-notes="^Note:"
 				         data-charset="iso-8859-15">
 				</section>
+				<script>
+					const file = new URLSearchParams(window.location.search).get('file');
+					document.getElementsByTagName('section')[0].setAttribute('data-markdown', 'slides-md/' + file + '.md');
+				</script>
 			</div>
 		</div>
 
@@ -33,11 +37,6 @@
 		<script src="https://cdn.jsdelivr.net/npm/reveal.js@4.2.1/plugin/math/math.js"></script>
 
 		<script>
-			function load_file(){
-				const file = new URLSearchParams(window.location.search).get('file');
-				document.getElementsByTagName('section')[0].setAttribute('data-markdown', 'slides-md/' + file + '.md');
-			}
-
 			Reveal.initialize({
 				hash: true,
 				controlsTutorial: false,
