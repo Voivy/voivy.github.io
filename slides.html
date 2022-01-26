@@ -13,12 +13,19 @@
 		<!-- Theme used for syntax highlighted code -->
 		<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/highlight.js@11.4.0/styles/github-dark.css" id="highlight-theme">
 
-		<!-- Correct resizing of code blocks -->
+		<!-- Correct resizing of code blocks and images -->
 		<style>
 			.reveal pre code {
 				height: 100%;
 				max-height: 100%;
 				box-sizing: border-box;
+			}
+
+			.reveal.reveal img{
+		    border: none;
+		    box-shadow: none;
+		    max-height: 80vh;
+		    max-width: 120vw;
 			}
 		</style>
 	</head>
@@ -36,17 +43,10 @@
 			</div>
 		</div>
 
-		<!-- JS for loading files and resizing images -->
+		<!-- JS for loading files -->
 		<script>
 			const file = new URLSearchParams(window.location.search).get('file');
 			document.getElementsByTagName('section')[0].setAttribute('data-markdown', 'slides-md/' + file + '.md');
-
-			var images = document.getElementsByTagName("img");
-			len = (images !== null ? images.length : 0);
-			i = 0;
-			for(i; i < len; i++) {
-					images[i].className += "r-stretch";
-			}
 		</script>
 
 		<!-- Loading reveal.js and plugins from CDN -->
