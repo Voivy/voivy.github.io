@@ -24,7 +24,6 @@ for (int i = 1; i <= delka; i++)
 	Console.Write("\n");
 }
 ```
-<!-- .element: class="r-stretch" -->
 ---
 #### Zkouška KaTeX
 

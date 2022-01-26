@@ -3,9 +3,9 @@
 	<head>
 		<meta charset="utf-8">
 		<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
-
 		<title>Slides</title>
 
+		<!-- CSS themes for reveal.js -->
 		<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/reveal.js@4.2.1/dist/reset.css">
 		<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/reveal.js@4.2.1/dist/reveal.css">
 		<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/reveal.js@4.2.1/dist/theme/blood.css" id="theme">
@@ -13,8 +13,18 @@
 		<!-- Theme used for syntax highlighted code -->
 		<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/highlight.js@11.4.0/styles/github-dark.css" id="highlight-theme">
 
+		<!-- Correct resizing of code blocks -->
+		<style>
+			.reveal pre code {
+				height: 100%;
+				max-height: 100%;
+				box-sizing: border-box;
+			}
+		</style>
 	</head>
+
 	<body>
+		<!-- Slides themselves, loaded from markdown files -->
 		<div class="reveal">
 			<div class="slides">
         <section data-markdown="slides-md/example.md"
@@ -23,19 +33,30 @@
 				         data-separator-notes="^Note:"
 				         data-charset="utf-8">
 				</section>
-				<script>
-					const file = new URLSearchParams(window.location.search).get('file');
-					document.getElementsByTagName('section')[0].setAttribute('data-markdown', 'slides-md/' + file + '.md');
-				</script>
 			</div>
 		</div>
 
+		<!-- JS for loading files and resizing images -->
+		<script>
+			const file = new URLSearchParams(window.location.search).get('file');
+			document.getElementsByTagName('section')[0].setAttribute('data-markdown', 'slides-md/' + file + '.md');
+
+			var images = document.getElementsByTagName("img");
+			len = (images !== null ? images.length : 0);
+			i = 0;
+			for(i; i < len; i++) {
+					images[i].className += "r-stretch";
+			}
+		</script>
+
+		<!-- Loading reveal.js and plugins from CDN -->
 		<script src="https://cdn.jsdelivr.net/npm/reveal.js@4.2.1/dist/reveal.min.js"></script>
 		<script src="https://cdn.jsdelivr.net/npm/reveal.js@4.2.1/plugin/notes/notes.js"></script>
 		<script src="https://cdn.jsdelivr.net/npm/reveal.js@4.2.1/plugin/markdown/markdown.js"></script>
 		<script src="https://cdn.jsdelivr.net/npm/reveal.js@4.2.1/plugin/highlight/highlight.js"></script>
 		<script src="https://cdn.jsdelivr.net/npm/reveal.js@4.2.1/plugin/math/math.js"></script>
 
+		<!-- Initializing reveal.js -->
 		<script>
 			Reveal.initialize({
 				hash: true,
