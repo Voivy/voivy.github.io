@@ -56,7 +56,12 @@
           <input id="input" class="input" type="text" placeholder="Kód prezentace">
         </div>
         <div class="column is-one-fifth">
-          <button class="button is-fullwidth is-link" onclick="window.location.href = 'slides.html?file=' + document.getElementById('input').value;">Přejít na</button>
+          <button class="button is-fullwidth is-link" onclick="read_and_goto()">Přejít na</button>
+          <script>
+            function read_and_goto() {
+        			window.location.href = 'slides.html?file=' + document.getElementById('input').value;
+            }
+      		</script>
         </div>
       </div>
     </div>
