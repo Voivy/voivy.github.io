@@ -28,11 +28,11 @@ nebo
 ---
 ## Velikost vektoru
 ---
-`$$|\vec{u}| = \sqrt{{u_1}^2 + {u_2}^2}$$`
+`$$|\vec{u}| = \sqrt{ {u_1}^2 + {u_2}^2}$$`
 
 nebo
 
-`$$|\vec{u}| = \sqrt{{u_1}^2 + {u_2}^2 + {u_3}^2}$$`
+`$$|\vec{u}| = \sqrt{ {u_1}^2 + {u_2}^2 + {u_3}^2}$$`
 ---
 **nulový vektor** = vektor s nulovou velikostí (nemá směr ani orientaci), označujeme jej `$\vec{o}$`
 ---
@@ -110,7 +110,7 @@ pokud jsou vektory na sebe kolmé, je skalární součin roven **nule**
 ---
 ## Odchylka vektorů
 ---
-`$$\cos{\varphi} = \frac{\vec{u} \cdot \vec{v}}{|\vec{u}| \cdot |\vec{v}|}$$`
+`$$\cos{\varphi} = \frac{\vec{u} \cdot \vec{v} }{|\vec{u}| \cdot |\vec{v}|}$$`
 ---
 `$$\varphi \in \langle 0°;180° \rangle$$`
 ---
