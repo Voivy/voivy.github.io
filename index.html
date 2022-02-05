@@ -37,32 +37,30 @@
   <!-- Vlastní obsah stránky -->
   <div class="container is-max-desktop p-4 content">
 
-    <div class="card block">
+    <div class="box">
+      <h3 class="title is-4">Jednou budou na této stránce velké věci. Tedy možná...</h3>
 
-      <div class="card-content">
-        <div class="content">
-          <h3 class="title is-4">Jednou budou na této stránce velké věci. Tedy možná...</h3>
-
-          <p>Tohle je má první webová stránka hostovaná na Github Pages. Není na ní nic až tak zajímavého, přesto jsem šťastný, že se mi ji povedlo zprovoznit.
-          Vše, co tu najdete (a není toho zatím mnoho), je jenom produktem mého experimentování, později se zde mohou však objevit třeba i nějaké mé projekty.
-          Nerad bych však zatím předbíhal.
-          <p>Toto je již druhá verze mé stránky. Nyní je stylována pomocí CSS knihovny <a href="http://bulma.io">Bulma</a>.
-        </div>
-      </div>
-
+      <p>Tohle je má první webová stránka hostovaná na Github Pages. Není na ní nic až tak zajímavého, přesto jsem šťastný, že se mi ji povedlo zprovoznit.
+      Vše, co tu najdete (a není toho zatím mnoho), je jenom produktem mého experimentování, později se zde mohou však objevit třeba i nějaké mé projekty.
+      Nerad bych však zatím předbíhal.
+      <p>Toto je již druhá verze mé stránky. Nyní je stylována pomocí CSS knihovny <a href="http://bulma.io">Bulma</a>.
     </div>
 
-    <div class="card block">
-      <div class="card-content">
-        <div class="content">
-          <h3 class="title is-4">Zkušební prezentace</h3>
-          Jedná se vlastně o zkoušku knihovny reveal.js, kterou jsem před nedávnem objevil na internetu. Tato knihovna umožňuje vytváření prezentací v HTML,
-          a představuje tak zajímavou alternativu k MS Powerpoint. V budoucnu ji mám v plánu využívat více, nyní zde naleznete jen poměrně nezajímavý test...
+    <div class="box">
+      <h3 class="title is-4">Zkušební prezentace</h3>
+      <p>
+        Jedná se vlastně o zkoušku knihovny reveal.js, kterou jsem před nedávnem objevil na internetu. Tato knihovna umožňuje vytváření prezentací v HTML, a představuje tak zajímavou alternativu k MS Powerpoint. V budoucnu ji mám v plánu využívat více, nyní zde naleznete jen poměrně nezajímavý test - po zadání kódu prezentace (např. <code>example-1</code> nebo <code>example-2</code>) by se daná prezentace měla načíst a otevřít.
+      </p>
+      <div class="columns">
+        <div class="column">
+          <div class="control">
+            <input id="input" class="input" type="text" placeholder="Kód prezentace">
+          </div>
+        </div>
+        <div class="column is-one-fifth">
+          <button class="button is-fullwidth is-link" onclick="window.location.href = 'slides.html?file=' + document.getElementById('input').value;">Přejít na</button>
         </div>
       </div>
-      <footer class="card-footer">
-        <a href="slides.html?file=example" class="card-footer-item">Přejít na</a>
-      </footer>
     </div>
 
   </div>
