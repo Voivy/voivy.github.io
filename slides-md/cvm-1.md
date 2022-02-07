@@ -34,7 +34,7 @@ nebo
 
 `$$|\vec{u}| = \sqrt{ {u_1}^2 + {u_2}^2 + {u_3}^2}$$`
 ---
-**nulový vektor** = vektor s nulovou velikostí (nemá směr ani orientaci), označujeme jej `$\vec{o}$`
+**nulový vektor** = vektor s nulovou velikostí (a tak nemá ani orientaci), označujeme jej `$\vec{o}$`
 ---
 **jednotkový vektor** = vektor jehož velikost je rovna 1
 ---

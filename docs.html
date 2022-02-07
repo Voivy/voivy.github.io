@@ -1,0 +1,45 @@
+<!DOCTYPE HTML>
+<html>
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+
+  <title>Docs</title>
+  <!-- CSS knihovna Bulma (pro pěkný celkový vzhled stránky) -->
+  <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bulma@0.9.2/css/bulma.min.css">
+  <!-- JS knihovna MathJax (pro práci se vzorci) -->
+  <script src="https://polyfill.io/v3/polyfill.min.js?features=es6"></script>
+  <script id="MathJax-script" async src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js"></script>
+  <!-- JS (ale vlastně i CSS) knihovna highlight.js (pro pěkný kód) -->
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/11.0.1/styles/base16/bright.min.css">
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/11.0.1/highlight.min.js"></script>
+  <script>hljs.initHighlightingOnLoad();</script>
+  <!-- JS knihovna marked.js (pro generování stránek z formátu markdown) -->
+  <script src="<https://cdn.jsdelivr.net/npm/marked/marked.min.js>"></script>
+
+</head>
+
+<body class="has-background-light">
+
+  <!-- Vlastní obsah stránky -->
+  <div class="container is-max-desktop p-4">
+
+    <div id="content" class="box content">
+      <h1>Hello, world!<h1>
+    </div>
+
+  </div>
+
+  <script>
+    const file = new URLSearchParams(window.location.search).get('file');
+    async function run() {
+      let docs = await fetch('docs-md/' + file + '.md')
+      let text = await docs.text()
+      document.getElementById('content').innerHTML = marked.parse(text);
+      hljs.highlightAll();
+    }
+    run()
+  </script>
+
+</body>
+</html>
