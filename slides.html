@@ -32,21 +32,23 @@
 
 	<body>
 		<!-- Slides themselves, loaded from markdown files -->
+
+
 		<div class="reveal">
 			<div class="slides">
-        <section data-markdown="slides-md/example.md"
-				         data-separator="^---\n"
-				         data-separator-vertical="^--\n"
-				         data-separator-notes="^Note:"
-				         data-charset="utf-8">
+				<section data-markdown="slides-md/example.md"
+		             data-separator="^---\n"
+		             data-separator-vertical="^--\n"
+		             data-separator-notes="^Note:"
+		             data-charset="utf-8">
 				</section>
 			</div>
-		</div>
+
 
 		<!-- JS for loading files -->
 		<script>
 			const file = new URLSearchParams(window.location.search).get('file');
-			document.getElementsByTagName('section')[0].setAttribute('data-markdown', 'slides-md/' + file + '.md');
+			document.getElementsByTagName('section')[0].setAttribute('data-markdown', 'https://voivy.github.io/slides-md/' + file + '.md');
 		</script>
 
 		<!-- Loading reveal.js and plugins from CDN -->
