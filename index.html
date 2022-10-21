@@ -53,7 +53,8 @@
       </p>
       <div class="columns">
         <div class="column">
-          <input id="input" class="input" type="text" placeholder="Kód prezentace">
+          <input id="input" class="input" type="text" placeholder="Kód prezentace"
+          onkeydown="if(event.keyCode == 13) {read_and_goto();}">
         </div>
         <div class="column is-one-fifth">
           <button class="button is-fullwidth is-link" onclick="read_and_goto()">Přejít na</button>
