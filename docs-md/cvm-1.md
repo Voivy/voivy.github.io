@@ -7,8 +7,11 @@
 ## Vektor:
 - = množina všech orientovaných úseček, které mají stejnou velikost a směr; v širším obzoru je vektorem vše, co splňuje vlastnosti vektoru
 - vektory značíme obvykle `$\vec{u}$`
-- vektor se skládá z jednotlivých složek, dvourozměrné nebo trojrozměrné vektory můžeme zapsat s jejich pomocí jako:  `$$\vec{u} = (u_1; u_2) \qquad nebo \qquad \vec{u} = (u_1; u_2; u_3)$$`
-- pro složky vektoru $\vec{u}$ zadaného body $A$ a $B$ platí, že jednotlivé složky vektoru získáme odečtením jednotlivých souřadnic těchto dvou bodů; důležité je, že odčítáme vždy souřadnice počátečního bodu od souřadnic koncového bodu:`$$u_1 = b_1 - a_1 \qquad \qquad u_2 = b_2 - a_2 \qquad \qquad (u_3 = b_3 - a_3)$$`
+- vektor se skládá z jednotlivých složek, dvourozměrné nebo trojrozměrné vektory můžeme zapsat s jejich pomocí jako:  `$$\vec{u} = (u_1; u_2)$$`
+`$$\vec{u} = (u_1; u_2; u_3)$$`
+- pro složky vektoru $\vec{u}$ zadaného body $A$ a $B$ platí, že jednotlivé složky vektoru získáme odečtením jednotlivých souřadnic těchto dvou bodů; důležité je, že odčítáme vždy souřadnice počátečního bodu od souřadnic koncového bodu:`$$u_1 = b_1 - a_1$$`
+`$$u_2 = b_2 - a_2$$`
+`$$(u_3 = b_3 - a_3)$$`
 - třetí ze souřadnic je volitelná - záleží, jestli pracujeme ve dvou nebo ve třech rozměrech
 
 *Př. 2: Určete složky vektoru zadaného počátečním bodem `$K[1;5;3]$` a koncovým bodem `$L[7;9;2]$`.*
