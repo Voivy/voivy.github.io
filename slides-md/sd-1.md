@@ -1,6 +1,8 @@
 # Školní didaktika 1
 
-*Vzpomínky na učitele*
+---
+
+## Vzpomínky na učitele
 
 ---
 
@@ -15,6 +17,7 @@
 - subjektivita a nepřesnost
 - zaměření na matematiku a informatiku
 - chronologický a spíše kvantitativní přístup
+- vzpomínkový optimismus
 
 ---
 
@@ -23,6 +26,10 @@
 ---
 
 ### Základní škola
+
+---
+
+![N_1](slides-img/n1.png)
 
 **pan učitel N.**
 
@@ -34,13 +41,15 @@
 
 ---
 
-### SŠ
+### Střední škola
 
 ---
 
-*tabulka učitelů*
+![tabulka učitelů matematiky SŠ](slides-img/table-m.png)
 
 ---
+
+![Š](slides-img/sh.png)
 
 **paní učitelka Š.**
 
@@ -50,6 +59,8 @@
 
 ---
 
+![Č](slides-img/c.png)
+
 **paní učitelka Č.**
 
 ---
@@ -58,6 +69,8 @@
 
 ---
 
+![N_2](slides-img/n2.png)
+
 **pan učitel N.**
 
 ---
@@ -65,6 +78,8 @@
 ...
 
 ---
+
+![L](slides-img/l.png)
 
 **(paní učitelka L.)**
 
@@ -80,19 +95,21 @@
 
 ### Základní škola
 
-*chaos*
+---
+
+*přeskočíme, nejen z časových důvodů*
 
 ---
 
-### SŠ
+### Střední škola
 
 ---
 
-*tabulka učitelů*
+![tabulka učitelů informatiky SŠ](slides-img/table-inf.png)
 
 ---
 
-
+![S](slides-img/s.png)
 
 **Paní učitelka S.**
 
@@ -102,6 +119,8 @@
 
 ---
 
+![D](slides-img/d.png)
+
 **Pan učitel D.**
 
 ---
@@ -109,6 +128,8 @@
 ...
 
 ---
+
+![B](slides-img/b.png)
 
 **Pan učitel B.**
 
@@ -122,4 +143,4 @@
 
 ---
 
-## Děkuji za pozornost
+# Děkuji za pozornost
