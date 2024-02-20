@@ -10,13 +10,14 @@
 
 ---
 
+> Já jsem se jednou díval na film pro pamětníky...
+
 > Ty se díváš na filmy pro pamětníky? Ty, se svou pamětí?
 
 ---
 
-- subjektivita a nepřesnost, vzpomínkový optimismus
+- subjektivita a nepřesnost
 - zaměření na matematiku a informatiku
-- snaha o chronologický, kvantitativní přístup
 - výběr charakteristických znaků výuky
 - zachování anonymity
 
@@ -57,7 +58,7 @@
 - množství praktických zkušeností
 - časté skupinové práce
 - zejména metoda výkladu či názorně-demonstrační
-- méně zpětné vazby, chybějící písemné práce
+- problematické hodnocení
 
 ---
 
