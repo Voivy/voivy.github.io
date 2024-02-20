@@ -16,7 +16,7 @@
 
 - subjektivita a nepřesnost, vzpomínkový optimismus
 - zaměření na matematiku a informatiku
-- snaha ochronologický, kvantitativní přístup
+- snaha o chronologický, kvantitativní přístup
 - výběr charakteristických znaků výuky
 - zachování anonymity
 
@@ -40,6 +40,8 @@
 ---
 
 ### Střední škola - Informatika
+
+---
 
 ![tabulka učitelů informatiky SŠ](slides-img/table-inf.png)
 
