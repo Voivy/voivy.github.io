@@ -10,12 +10,6 @@
 
 ---
 
-> Já jsem se jednou díval na film pro pamětníky...
-
-> Ty se díváš na filmy pro pamětníky? Ty, se svou pamětí?
-
----
-
 - subjektivita a nepřesnost
 - zaměření na matematiku a informatiku
 - výběr charakteristických znaků výuky
