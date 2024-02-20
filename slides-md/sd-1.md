@@ -2,11 +2,7 @@
 
 ---
 
-## Vzpomínky na učitele
-
----
-
->"Ty se díváš na filmy pro pamětníky? Ty, se svou pamětí?"
+*Vzpomeňte si na nějaké své učitele ZŠ a SŠ a pokuste se odhadnout jejich pojetí výuky. Svoje vyjádření zdůvodněte. Proveďte scénář vyučovací hodiny konkrétního vyučujícího. Proč jste si zvolili právě tohoto vyučujícího?*
 
 ---
 
@@ -14,18 +10,19 @@
 
 ---
 
-- subjektivita a nepřesnost
+> Ty se díváš na filmy pro pamětníky? Ty, se svou pamětí?
+
+---
+
+- subjektivita a nepřesnost, vzpomínkový optimismus
 - zaměření na matematiku a informatiku
-- chronologický a spíše kvantitativní přístup
-- vzpomínkový optimismus
+- snaha ochronologický, kvantitativní přístup
+- výběr charakteristických znaků výuky
+- zachování anonymity
 
 ---
 
-## Matematika
-
----
-
-### Základní škola
+### Základní škola - Matematika
 
 ---
 
@@ -35,75 +32,14 @@
 
 ---
 
-- spíše zaměření na žáky
+- pedocentrismus, zaměření na žáky
 - metoda dialogu, kladení otázek apod.
-- láska k matematice
+- cílem láska k matematice, později přijímačky
+- přiblížení teorie pomocí konkrétních příkladů
 
 ---
 
-### Střední škola
-
----
-
-![tabulka učitelů matematiky SŠ](slides-img/table-m.png)
-
----
-
-![Š](slides-img/sh.png)
-
-**paní učitelka Š.**
-
----
-
-...
-
----
-
-![Č](slides-img/c.png)
-
-**paní učitelka Č.**
-
----
-
-...
-
----
-
-![N_2](slides-img/n2.png)
-
-**pan učitel N.**
-
----
-
-...
-
----
-
-![L](slides-img/l.png)
-
-**(paní učitelka L.)**
-
----
-
-(...)
-
----
-
-## Informatika
-
----
-
-### Základní škola
-
----
-
-*přeskočíme, nejen z časových důvodů*
-
----
-
-### Střední škola
-
----
+### Střední škola - Informatika
 
 ![tabulka učitelů informatiky SŠ](slides-img/table-inf.png)
 
@@ -115,7 +51,11 @@
 
 ---
 
-...
+- optimistická, nadšení pro výuku
+- množství praktických zkušeností
+- časté skupinové práce
+- zejména metoda výkladu či názorně-demonstrační
+- méně zpětné vazby, chybějící písemné práce
 
 ---
 
@@ -125,7 +65,11 @@
 
 ---
 
-...
+- mladý, méně zkušeností
+- promyšlený výběr učiva
+- časté samostatné práce
+- pojetí žáků jako programátorů
+- poměrně podrobná zpětná vazba
 
 ---
 
@@ -135,7 +79,11 @@
 
 ---
 
-...
+- snaha zaujmout
+- spíše logotrop, nadšení pro informatiku
+- množství praktických zkušeností
+- zejména metody názorně-demonstrační
+- opět časté samostatné práce
 
 ---
 
