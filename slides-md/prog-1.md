@@ -19,14 +19,25 @@ digitSum(9999)  // -> 36
 ```cs
 int digitSum(int a)
 {
-  if(a == 0)
+  if(a < 10)
   {
-    return 0;
+    return a;
   }
   else
   {
     return (a % 10) + digitSum(a / 10);
   }
+}
+```
+
+--
+
+```cs
+int digitSum(int a)
+{
+    if(a < 10) return a;
+
+    return (a % 10) + digitSum(a / 10);
 }
 ```
 
@@ -148,7 +159,7 @@ bool isDivisibleByThree(int a)
 Toto je *Pascalův trojúhelník*:
 `$$1$$$$1 \qquad 1$$$$1 \qquad 2 \qquad 1$$$$1 \qquad 3 \qquad 3 \qquad 1$$$$1 \qquad 4 \qquad 6 \qquad 4 \qquad 1$$$$\vdots$$`
 
----
+--
 
 Každý řádek začíná a končí jedničkou, každé z ostatních čísel lze vypočítat jako součet dvojice čísel ležících nad ním. Řádky i "sloupce" budeme indexovat od nuly. Za pomocí stromové rekurze napište funkci `pascal`, která vypočítá číslo na zadané pozici v Pascalově trojúhelníku.
 
