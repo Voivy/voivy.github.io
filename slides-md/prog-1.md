@@ -6,6 +6,8 @@
 
 Napište rekurzivní funkci `digitSum`, která vypočítá ciferný součet zadaného přirozeného čísla.
 
+<br>
+
 ```cs
 digitSum(18)    // -> 9
 digitSum(12345) // -> 15
@@ -23,7 +25,7 @@ int digitSum(int a)
   }
   else
   {
-    return (a % 10) + digitSum2(a / 10);
+    return (a % 10) + digitSum(a / 10);
   }
 }
 ```
@@ -35,7 +37,7 @@ int digitSum(int a)
 {
     if(a == 0) return 0;
 
-    return (a % 10) + digitSum2(a / 10);
+    return (a % 10) + digitSum(a / 10);
 }
 ```
 
@@ -60,7 +62,7 @@ static int F(int n)
 
 Funkce `fibonacci` spolu s pomocnou funkcí `fib` je vylepšenou variantou rekurzivní funkce pro výpočet Fibonacciho posloupnosti, kterou znáte z minulé hodiny. V čem je lepší? Popište, jak funguje. Porovnejte rychlost výpočtu této funkce a její běžné, "hloupé" verze. Je funkce `fibonacci` skutečně rekurzivní?
 
----
+--
 
 ```cs
 static int fibonacci(int n)
@@ -83,6 +85,8 @@ static int fib(int n, int[] pole)
 ### 3.
 
 Přirozené číslo je dělitelné devíti právě tehdy, když je jeho ciferný součet dělitelný devíti. Za pomocí této vlastnosti napište rekurzivní funkci `isDivisibleByNine`, která bez použití operátoru `%` zjistí, zda je zadané přirozené číslo dělitelné devíti. Využijte funkce `digitSum` z předchozího příkladu.
+
+<br>
 
 ```cs
 isDivisibleByNine(9)        // -> True
@@ -142,7 +146,7 @@ bool isDivisibleByThree(int a)
 ### 5.
 
 Toto je *Pascalův trojúhelník*:
-`$$1$$$$1 \qquad 1$$$$1 \qquad 2 \qquad 1$$$$1 \qquad 3 \qquad 3 \qquad 1$$$$1 \qquad 4 \qquad 6 \qquad 4 \qquad 1$$$$1 \qquad 5 \;\;\;\quad 10 \;\;\quad 10 \;\;\;\quad 5 \qquad 1$$$$\vdots$$`
+`$$1$$$$1 \qquad 1$$$$1 \qquad 2 \qquad 1$$$$1 \qquad 3 \qquad 3 \qquad 1$$$$1 \qquad 4 \qquad 6 \qquad 4 \qquad 1$$$$\vdots$$`
 
 ---
 
