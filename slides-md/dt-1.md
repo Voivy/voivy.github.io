@@ -13,15 +13,11 @@
 
 ---
 
-(některé periferie plní oba účely, rozlišujeme tedy i **vstupně-výstupní zařízení**)
+(některé periferie plní oba účely, rozlišujeme tedy i <br> **vstupně-výstupní zařízení**)
 
 ---
 
 ## Vstupní zařízení
-
----
-
-(postupujme chronologicky)
 
 ---
 
@@ -39,7 +35,7 @@ Koncept klávesnice je podstatně starší než počítače...
 
 ---
 
-![Rozložení QWERTY](https://upload.wikimedia.org/wikipedia/commons/5/54/Kl_qwerty.png)
+![Rozložení QWERTY](https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/KB_United_States.svg/1024px-KB_United_States.svg.png)
 
 Ale rozložení kláves se zachovalo, alespoň s jistými obměnami...
 
@@ -72,7 +68,92 @@ Klávesnice můžeme dělit na základě různých vlastností:
 - připojení - PS/2 (dříve) vs. USB vs. bezdrátové
 - ...
 
+---
 
+### Myš
+
+---
+
+>"Jedná se o malé polohovací zařízení, které snímá pohyb ruky po ploše (např. desce stolu) a počítač jej následně převádí na pohyb kurzoru po monitoru (displeji)."
+
+---
+
+![Obrázek počítačové myši](https://upload.wikimedia.org/wikipedia/commons/2/22/3-Tasten-Maus_Microsoft.jpg)
+
+(Nejmenovaný hlodavec v přirozeném prostředí...)
+
+---
+
+![Obrázek Engelbartovy myši](https://upload.wikimedia.org/wikipedia/commons/c/cc/SRI_Computer_Mouse.jpg)
+
+První počítačové myši vznikaly již koncem 60. let...
+
+---
+
+Také myši můžeme dělit na základě různých vlastností:
+- mechanismus - optická (laserová) vs. mechanická
+- připojení - PS/2 (dříve) vs. USB vs. bezdrátové
+- konstrukce - ergonomické, vertikální, herní, ...
+- technické paramtetry - DPI, doba odezvy, ...
+- ...
+
+---
+
+K myši existuje také množství alternativ:
+- (grafický) tablet
+- trackball
+- trackpoint
+- touchpad
+
+---
+
+![Trackball](https://upload.wikimedia.org/wikipedia/commons/9/96/Trackball-Kensington-ExpertMouse5.jpg)
+
+---
+
+![Touchpad](https://upload.wikimedia.org/wikipedia/commons/e/ea/MacBook_Pro%27s_trackpad.JPG)
+
+---
+
+![Trackpoint](https://upload.wikimedia.org/wikipedia/commons/9/9a/Trackpoint.jpg)
+
+---
+
+![Grafický tablet](https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Pen_Tablet.jpg/1244px-Pen_Tablet.jpg)
+
+---
+
+### Další vstupní zařízení
+
+---
+
+#### (Web)kamera, mikrofon
+
+- slouží k zachycení audiovizuálního záznamu
+- velmi rozmanité podoby
+- častá integrace do zařízení
+- parametry:
+  - (web)kamera - zejména rozlišení, světelnost, počet fps, ...
+  - mikrofon - princip (kondenzátorový, dynamický, ...), směrové a frekvenční charakteristiky, konstrukce, ...
+
+---
+
+![Webkamera](https://upload.wikimedia.org/wikipedia/commons/7/7f/Webcam_on_computer_screen.jpg)
+
+---
+
+#### Skener
+
+- slouží k převedení fyzických dokumentů či objektů do počítače
+- různé technologie i parametry
+- často integrováno v tiskárně
+- obdobně např. čtečky čárových kódů
+
+---
+
+![Scanner](https://upload.wikimedia.org/wikipedia/commons/9/9a/Epson_V850_scanner_open_20230920.jpg)
+
+(Skener v přirozeném prostředí...)
 
 ---
 
