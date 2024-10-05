@@ -17,11 +17,11 @@
 
 ---
 
-## Vstupní zařízení
+# Vstupní zařízení
 
 ---
 
-### Klávesnice
+## Klávesnice
 
 ---
 
@@ -54,23 +54,23 @@ Klávesy můžeme dělit do jednotlivých oblastí...
 ---
 
 Klávesy počítačové klávesnice lze rozdělit do těchto skupin:
-- základní alfanumerické klávesy (písmena a čísla)
-- klávesy numerické klávesnice
-- funkční klávesy
-- speciální klávesy (metaklávesy)
-- klávesy určené pro konkrétní operační systém
+- _základní alfanumerické klávesy_ (písmena a čísla)
+- _klávesy numerické klávesnice_
+- _funkční klávesy_
+- _speciální klávesy_ (metaklávesy)
+- _klávesy určené pro konkrétní operační systém_
 
 ---
 
 Klávesnice můžeme dělit na základě různých vlastností:
-- spínače - mechanické vs. membránové vs. chicklet
-- konstrukce - ergonomické, kompaktní, ...
-- připojení - PS/2 (dříve) vs. USB vs. bezdrátové
+- _spínače_ - mechanické vs. membránové vs. chicklet
+- _konstrukce_ - ergonomické, kompaktní, ...
+- _připojení_ - PS/2 (dříve) vs. USB vs. bezdrátové
 - ...
 
 ---
 
-### Myš
+## Myš
 
 ---
 
@@ -91,19 +91,19 @@ První počítačové myši vznikaly již koncem 60. let...
 ---
 
 Také myši můžeme dělit na základě různých vlastností:
-- mechanismus - optická (laserová) vs. mechanická
-- připojení - PS/2 (dříve) vs. USB vs. bezdrátové
-- konstrukce - ergonomické, vertikální, herní, ...
-- technické paramtetry - DPI, doba odezvy, ...
+- _mechanismus_ - optická (laserová) vs. mechanická
+- _připojení_ - PS/2 (dříve) vs. USB vs. bezdrátové
+- _konstrukce_ - ergonomické, vertikální, herní, ...
+- _technické parametry_ - DPI, doba odezvy, ...
 - ...
 
 ---
 
 K myši existuje také množství alternativ:
-- (grafický) tablet
-- trackball
-- trackpoint
-- touchpad
+- **(grafický) tablet**
+- **trackball**
+- **trackpoint**
+- **touchpad**
 
 ---
 
@@ -123,11 +123,11 @@ K myši existuje také množství alternativ:
 
 ---
 
-### Další vstupní zařízení
+## Další vstupní zařízení
 
 ---
 
-#### (Web)kamera, mikrofon
+### (Web)kamera, mikrofon
 
 - slouží k zachycení audiovizuálního záznamu
 - velmi rozmanité podoby
@@ -142,7 +142,7 @@ K myši existuje také množství alternativ:
 
 ---
 
-#### Skener
+### Skener
 
 - slouží k převedení fyzických dokumentů či objektů do počítače
 - různé technologie i parametry
@@ -157,12 +157,85 @@ K myši existuje také množství alternativ:
 
 ---
 
-## Výstupní zařízení
+# Výstupní zařízení
 
 ---
 
-...
+## Monitor
 
 ---
 
-## Děkuji za pozornost
+>"Monitor je v informatice základní výstupní zařízení sloužící k zobrazování textových a grafických informací, případně celého grafického uživatelského rozhraní."
+
+---
+
+![CRT](https://upload.wikimedia.org/wikipedia/commons/1/16/Trinitron_computer-monitor.jpg)
+
+Nejstarší monitory byly konstruovány jako vakuové obrazovky, tzv. CRT...
+
+---
+
+- nejprve zcela analogové, později i digitální
+- velké rozměry a hmotnost, horší kontrast
+- naopak dobrý čas odezvy
+- konektor typicky CGA, VGA, kompozitní video (RCA), ...
+
+---
+
+![Mac - CRT bez krytu](https://upload.wikimedia.org/wikipedia/commons/e/e9/Macintosh_Plus_interior.jpg)
+
+Pohled na vnitřnosti CRT (konkrétně Macintosh Plus)...
+
+---
+
+![Vykreslování obrazu CRT](https://upload.wikimedia.org/wikipedia/commons/1/1f/CRT_image_creation_animation.gif)
+
+Animace toho, jak CRT vykresluje obrázky...
+
+---
+
+![RGB](https://upload.wikimedia.org/wikipedia/commons/0/05/AdditiveColorMixing.svg)
+
+S příchodem barvy se také ustaluje aditivní barevný model RGB...
+
+---
+
+![LCD](https://upload.wikimedia.org/wikipedia/commons/7/7e/LG_L194WT-SF_LCD_monitor.jpg)
+
+Později, v 90. letech, se přechází k technologii LCD...
+
+---
+
+- lepší kontrast, svítivost a snímková frekvence (fps)
+- nižší rozměry a hmotnost (použití v mobilních zařízeních)
+- nižší spotřeba energie
+- konektory nejprve VGA, později DVI, HDMI, DisplayPort, ...
+
+---
+
+![OLED](https://upload.wikimedia.org/wikipedia/commons/6/60/Sony_oled.jpg)
+
+V novém tisíciletí se pak objevuje třetí technologie - OLED...
+
+---
+
+- nejlepší kontrast, nejmenší spotřeba elektrické energie
+- nejkvalitnější, ale také nejdražší druh displeje
+- zejména televize a mobilní zařízení
+- konektory shodné s LCD
+
+---
+
+(Plazmové obrazovky s lítostí přeskočíme...)
+
+---
+
+![https://cs.wikipedia.org/wiki/Obrazovka](slides-img/qr-monitor.png)
+
+---
+
+## Tiskárna
+
+---
+
+# Děkuji za pozornost
