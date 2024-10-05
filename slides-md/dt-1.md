@@ -33,7 +33,7 @@
 
 ---
 
-![Obrázek psacího stroje](https://commons.wikimedia.org/wiki/File:DSCF2850-s.jpg)
+![Obrázek psacího stroje](https://upload.wikimedia.org/wikipedia/commons/e/e9/DSCF2850-s.jpg)
 
 Koncept klávesnice je podstatně starší než počítače...
 
@@ -51,26 +51,26 @@ Ale rozložení kláves se zachovalo, alespoň s jistými obměnami...
 
 ---
 
-![Rozložení české klávesnice](https://upload.wikimedia.org/wikipedia/commons/4/48/Qwerty_cz.svg)
+![Rozložení české klávesnice](https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Qwertz_cz.svg/1024px-Qwertz_cz.svg.png)
 
 Klávesy můžeme dělit do jednotlivých oblastí...
 
 ---
 
 Klávesy počítačové klávesnice lze rozdělit do těchto skupin:
-    - základní alfanumerické klávesy (písmena a čísla)
-    - klávesy numerické klávesnice
-    - funkční klávesy
-    - speciální klávesy (metaklávesy)
-    - klávesy určené pro konkrétní operační systém
+- základní alfanumerické klávesy (písmena a čísla)
+- klávesy numerické klávesnice
+- funkční klávesy
+- speciální klávesy (metaklávesy)
+- klávesy určené pro konkrétní operační systém
 
 ---
 
 Klávesnice můžeme dělit na základě různých vlastností:
-    - spínače - mechanické vs. membránové vs. chicklet
-    - konstrukce - ergonomické, kompaktní, ...
-    - připojení - PS/2 (dříve) vs. USB vs. bezdrátové
-    - ...
+- spínače - mechanické vs. membránové vs. chicklet
+- konstrukce - ergonomické, kompaktní, ...
+- připojení - PS/2 (dříve) vs. USB vs. bezdrátové
+- ...
 
 
 
