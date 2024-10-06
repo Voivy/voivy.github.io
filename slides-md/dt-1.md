@@ -8,8 +8,8 @@
 
 ### Základní dělení
 
-- **vstupní zařízení** - slouží pro předávání dat z počítače k uživateli
-- **výstupní zařízení** - slouží pro předávání dat od uživatele do počítače
+- **vstupní zařízení** - slouží pro předávání dat od uživatele do počítače
+- **výstupní zařízení** - slouží pro předávání dat z počítače k uživateli
 
 ---
 
@@ -341,9 +341,9 @@ V dnešní době se již rozšiřují také 3D tiskárny...
 ---
 
 Také zde lze rozlišovat řadu různých vlastností:
-- připojení - pomocí konektoru (jack) vs. bezdrátové
-- sluchátka - circumaurální vs. supraaurální vs. intraaurální
-- parametrů - impedance, frekvenční rozsah, příkon, směrová charakteristika, ...
+- _připojení_ - pomocí konektoru (jack) vs. bezdrátové
+- _konstrukce sluchátek_ - circumaurální vs. supraaurální vs. intraaurální
+- _parametrů_ - impedance, frekvenční rozsah, příkon, směrová charakteristika, ...
 
 ---
 
