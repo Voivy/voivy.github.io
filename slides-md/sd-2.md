@@ -40,7 +40,7 @@ Slova napsal:
 
 <hr>
 
-**O hodnotících listech obecně**
+*Obecné pojednání o hodnotících listech*
 
 ---
 
@@ -48,9 +48,11 @@ Hodnotící listy jsou velmi skloňované téma, přinejmenším na tomto semin�
 
 ---
 
-Co si pamatujete z předchozích výstupů? 
+Co si pamatujete z předchozích výstupů?
 
-Co pro Vás znamená pojem _hodnotící list_?
+<hr>
+
+Co pro Vás znamená pojem **hodnotící list**?
 
 ---
 
@@ -64,17 +66,13 @@ Co jsme se dozvěděli?
 
 *(Jako mnoho věcí v pedagogice zde není jasná definice...)*
 
---
-
-*(Pojďme tedy nad hodnotícími listy chvilku společně meditovat...)*
-
 ---
 
 *(Následuje sekce "Hodnotící listy v otázkách a odpovědích"...)*
 
 ---
 
-## Co je to hodnotící list?
+### Co je to hodnotící list?
 
 = písemný způsob zprostředkování formativního hodnocení
 
@@ -84,7 +82,7 @@ Co jsme se dozvěděli?
 
 ---
 
-## Kdo může hodnotit?
+### Kdo může hodnotit?
 
 - žák sám sebe
 - učitel
@@ -104,9 +102,9 @@ Tady bude ještě spousta věcí!
 
 <hr>
 
-**O hodnotících listech konkrétně**
+*Konkrétní pojednání o hodnotících listech*
 
 ---
 
 <iframe src="https://voivy.github.io/other/cvm-1.pdf"
-   width=80vw height=80vw>
+   width="80vw" height="80vh">
