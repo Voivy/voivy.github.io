@@ -1,14 +1,18 @@
-# Školní didaktika 1
+# Hodnotící listy
 
 ---
 
 Hudbu složil:
 
-*Radim Křenek*
+**Radim Křenek**
 
 Slova napsal:
 
-*Vojtěch Vybíralík*
+**Vojtěch Vybíralík**
+
+---
+
+## Krátký úvod
 
 ---
 
@@ -32,14 +36,77 @@ Slova napsal:
 
 ---
 
+## 1. dějství
+
+<hr>
+
+**O hodnotících listech obecně**
+
+---
+
 Hodnotící listy jsou velmi skloňované téma, přinejmenším na tomto semináři...
 
 ---
 
-Co si pamatujete z předchozích výstupů? Co pro Vás znamená pojem _hodnotící list_?
+Co si pamatujete z předchozích výstupů? 
+
+Co pro Vás znamená pojem _hodnotící list_?
 
 ---
 
-# MENTI
+## MENTIMETER
 
 ---
+
+Co jsme se dozvěděli?
+
+--
+
+*(Jako mnoho věcí v pedagogice zde není jasná definice...)*
+
+--
+
+*(Pojďme tedy nad hodnotícími listy chvilku společně meditovat...)*
+
+---
+
+*(Následuje sekce "Hodnotící listy v otázkách a odpovědích"...)*
+
+---
+
+## Co je to hodnotící list?
+
+= písemný způsob zprostředkování formativního hodnocení
+
+---
+
+*(Naše pojetí je velmi formativní! To se vyplatí!)*
+
+---
+
+## Kdo může hodnotit?
+
+- žák sám sebe
+- učitel
+- rodič
+
+---
+
+*(Ale pamatujme na to, že není hodnocení jako hodnocení...)*
+
+---
+
+Tady bude ještě spousta věcí!
+
+---
+
+## 2. dějství
+
+<hr>
+
+**O hodnotících listech konkrétně**
+
+---
+
+<iframe src="https://voivy.github.io/other/cvm-1.pdf"
+   width=80vw height=80vw>
