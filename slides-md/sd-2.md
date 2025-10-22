@@ -74,7 +74,7 @@ Co jsme se dozvěděli?
 
 ### Co je to hodnotící list?
 
-= písemný způsob zprostředkování formativního hodnocení
+= písemný způsob zprostředkování formativního hodnocení <!-- .element: class="fragment" data-fragment-index="2" -->
 
 ---
 
@@ -82,11 +82,9 @@ Co jsme se dozvěděli?
 
 ---
 
-### Kdo může hodnotit?
+### Co se zde hodnotí?
 
-- žák sám sebe
-- učitel
-- rodič
+Dosažení stanovených cílů žákem, splnění kritérií... <!-- .element: class="fragment" data-fragment-index="2" -->
 
 ---
 
@@ -94,7 +92,80 @@ Co jsme se dozvěděli?
 
 ---
 
-Tady bude ještě spousta věcí!
+### Kdo může hodnotit?
+
+- žák <!-- .element: class="fragment" data-fragment-index="2" -->
+- učitel <!-- .element: class="fragment" data-fragment-index="3" -->
+- rodič <!-- .element: class="fragment" data-fragment-index="4" -->
+
+---
+
+### Jak můžeme hodnotící listy vyplňovat?
+
+- průběžně _nebo_ <!-- .element: class="fragment" data-fragment-index="2" -->
+- na konci tematického celku <!-- .element: class="fragment" data-fragment-index="3" -->
+
+---
+
+### Co všechno může hodnotící list obsahovat?
+
+Tolik věcí, že se to na tento slide nevejde!
+
+--
+
+*(Především se zaměřujeme na zajímavé, inspirativní způsoby sebehodnocení...)*
+
+--
+
+**Volné psaní/otevřené otázky**
+
+*(+ náčrt na tabuli)*
+
+--
+
+**Strukturovaná reflexe**
+
+*(+ náčrt na tabuli)*
+
+--
+
+**Kriteriální tabulky**
+
+*(+ náčrt na tabuli)*
+
+--
+
+**Balanční kruhy**
+
+*(+ náčrt na tabuli)*
+
+--
+
+**Mapy učebního pokroku**
+
+*(+ náčrt na tabuli)*
+
+--
+
+*(A mnoho dalších...)*
+
+--
+
+*(Kreativitě se meze nekladou!)*
+
+--
+
+<img src="https://i.makeagif.com/media/3-12-2016/KTGcHm.gif" alt="Pan vajíčko jako GIF" class="r-fit-text">
+
+--
+
+<img src="https://img-cdn.heureka.group/v1/5381ac27-b0b9-5ed7-8354-36c00f927115.jpg" alt="Pan vajíčko jako GIF" class="r-fit-text">
+
+---
+
+> „Řečník má vyčerpat téma, nikoliv posluchače.“
+
+*Winston Churchill*
 
 ---
 
@@ -106,5 +177,4 @@ Tady bude ještě spousta věcí!
 
 ---
 
-<iframe src="https://voivy.github.io/other/cvm-1.pdf"
-   width="80vw" height="80vh">
+<iframe src="https://voivy.github.io/other/cvm-1.pdf" class="r-fit-text">
