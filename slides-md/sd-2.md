@@ -102,8 +102,8 @@ Dosažení stanovených cílů žákem, splnění kritérií... <!-- .element: c
 
 ### Jak můžeme hodnotící listy vyplňovat?
 
-- průběžně _nebo_ <!-- .element: class="fragment" data-fragment-index="2" -->
-- na konci tematického celku <!-- .element: class="fragment" data-fragment-index="3" -->
+- na konci tematického celku <!-- .element: class="fragment" data-fragment-index="2" --> _nebo_ <!-- .element: class="fragment" data-fragment-index="2" -->
+- průběžně <!-- .element: class="fragment" data-fragment-index="3" -->
 
 ---
 
@@ -119,7 +119,7 @@ Tolik věcí, že se to na tento slide nevejde!
 
 **Volné psaní/otevřené otázky**
 
-*(+ náčrt na tabuli)*
+*(+ příklady)*
 
 --
 
@@ -155,7 +155,7 @@ Tolik věcí, že se to na tento slide nevejde!
 
 --
 
-<img src="https://i.makeagif.com/media/3-12-2016/KTGcHm.gif" alt="Pan vajíčko jako GIF" class="r-fit-text">
+<img src="https://i.makeagif.com/media/3-12-2016/KTGcHm.gif" alt="Pan vajíčko jako GIF" height=600px>
 
 --
 
@@ -164,8 +164,11 @@ Tolik věcí, že se to na tento slide nevejde!
 ---
 
 > „Řečník má vyčerpat téma, nikoliv posluchače.“
+>
+>—
+>
+> *Winston Churchill*
 
-*Winston Churchill*
 
 ---
 
@@ -177,4 +180,14 @@ Tolik věcí, že se to na tento slide nevejde!
 
 ---
 
-<iframe src="https://voivy.github.io/other/cvm-1.pdf" class="r-fit-text">
+<iframe src="https://voivy.github.io/other/cvm-1.pdf" class="r-fit-text" height=600px width=800px>
+
+---
+
+## 2. dějství
+
+<hr>
+
+*Konkrétní pojednání o hodnotících listech*
+
+---
