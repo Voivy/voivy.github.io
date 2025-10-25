@@ -56,7 +56,7 @@ Co pro Vás znamená pojem **hodnotící list**?
 
 ---
 
-## MENTIMETER
+<img src="slides-img/menti-qr-code-1.png" alt="QR kód odkazující na Mentimeter" class="r-stretch">
 
 ---
 
@@ -64,7 +64,11 @@ Co jsme se dozvěděli?
 
 --
 
-*(Jako mnoho věcí v pedagogice zde není jasná definice...)*
+*(Pravděpodobně nepříliš mnoho...)*
+
+--
+
+*(Ale aktivizovali jsme se alespoň trošku, ne?)*
 
 ---
 
@@ -102,8 +106,8 @@ Dosažení stanovených cílů žákem, splnění kritérií... <!-- .element: c
 
 ### Jak můžeme hodnotící listy vyplňovat?
 
-- na konci tematického celku <!-- .element: class="fragment" data-fragment-index="2" --> _nebo_ <!-- .element: class="fragment" data-fragment-index="2" -->
-- průběžně <!-- .element: class="fragment" data-fragment-index="3" -->
+- na konci tematického celku <!-- .element: class="fragment" data-fragment-index="2" --> _nebo_ <!-- .element: class="fragment" data-fragment-index="3" -->
+- průběžně <!-- .element: class="fragment" data-fragment-index="4" -->
 
 ---
 
@@ -155,11 +159,11 @@ Tolik věcí, že se to na tento slide nevejde!
 
 --
 
-<img src="https://i.makeagif.com/media/3-12-2016/KTGcHm.gif" alt="Pan vajíčko jako GIF" height=600px>
+<img src="https://i.makeagif.com/media/3-12-2016/KTGcHm.gif" alt="Pan vajíčko jako GIF" class="r-stretch">
 
 --
 
-<img src="https://img-cdn.heureka.group/v1/5381ac27-b0b9-5ed7-8354-36c00f927115.jpg" alt="Pan vajíčko jako GIF" class="r-fit-text">
+<img src="https://img-cdn.heureka.group/v1/5381ac27-b0b9-5ed7-8354-36c00f927115.jpg" alt="Obrázek učebnice o formativním hodnocení" class="r-stretch">
 
 ---
 
@@ -180,14 +184,28 @@ Tolik věcí, že se to na tento slide nevejde!
 
 ---
 
-<iframe src="https://voivy.github.io/other/cvm-1.pdf" class="r-fit-text" height=600px width=800px>
+*(Měli jsme se zaměřit na 2 klíčové kompetence...)*
 
 ---
 
-## 2. dějství
+### Kompetence občanská
+
+--
+
+--
+
+---
+
+<iframe src="https://voivy.github.io/other/hodnotici-list-procenta.pdf" height="100%" class="r-stretch">
+
+---
+
+## 3. dějství
 
 <hr>
 
-*Konkrétní pojednání o hodnotících listech*
+*Praktické pojednání o hodnotících listech*
 
 ---
+
+
