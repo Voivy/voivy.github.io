@@ -56,7 +56,7 @@ Co pro Vás znamená pojem **hodnotící list**?
 
 ---
 
-<img src="slides-img/menti-qr-code-1.png" alt="QR kód odkazující na Mentimeter" class="r-stretch">
+<img src="slides-img/qr-menti-1.png" alt="QR kód odkazující na Mentimeter" class="r-stretch">
 
 ---
 
@@ -113,7 +113,7 @@ Dosažení stanovených cílů žákem, splnění kritérií... <!-- .element: c
 
 ### Co všechno může hodnotící list obsahovat?
 
-Tolik věcí, že se to na tento slide nevejde!
+Tolik věcí, že se to na tento slide nevejde! <!-- .element: class="fragment" data-fragment-index="2" -->
 
 --
 
@@ -190,13 +190,99 @@ Tolik věcí, že se to na tento slide nevejde!
 
 ### Kompetence občanská
 
---
+= žák by měl... <!-- .element: class="fragment" data-fragment-index="2" -->
 
 --
+
+...respektovat přesvědčení druhých lidí, vážit si jejich vnitřních hodnot (→ empatie) a odmítat útlak a fyzické i psychické násilí
+
+--
+
+...chápat základní principy zákonů a společenských norem a být si vědom svých práv a povinností
+
+--
+
+...rozhodovat se zodpovědně podle dané situace, poskytnout dle svých možností účinnou pomoc a chovat se zodpovědně v krizových situacích
+
+--
+
+...respektovat, chránit a oceňovat tradice a kulturní i historické dědictví, projevovat smysl pro tvořivost, kulturu i sport
+
+--
+
+...chápat základní ekologické souvislosti a environmentální problémy, respektovat požadavky na trvale udržitelný rozvoj společnosti
+
+---
+
+*(K této kompetenci byly vytvořeny dva hodnotící listy...)*
+
+---
+
+<iframe src="https://voivy.github.io/other/hodnotici-list-funkce.pdf" height="100%" class="r-stretch">
+
+*(Funkce a zaměření na SŠ...)*
 
 ---
 
 <iframe src="https://voivy.github.io/other/hodnotici-list-procenta.pdf" height="100%" class="r-stretch">
+
+*(Procenta a zaměření na ZŠ...)*
+
+---
+
+### Kompetence občanská
+
+= žák by měl... <!-- .element: class="fragment" data-fragment-index="2" -->
+
+--
+
+...rozpoznávat a pochopit problém, promyslet a naplánovat způsob jeho řešení za využití vlastního úsudku a zkušeností
+
+--
+
+...vyhledat informace vhodné k řešení problému, využít získané vědomosti a dovednosti k objevování různých variant řešení
+
+--
+
+...samostatně řešit problémy, volit vhodné způsoby řešení a užít při řešení problémů logické, matematické a empirické postupy
+
+--
+
+...ověřit prakticky správnost řešení problémů a aplikovat osvědčené postupy při řešení obdobných nebo nových problémových situací
+
+--
+
+...kriticky myslet, činit uvážená rozhodnutí, být schopen je obhájit, uvědomovat si zodpovědnost za svá rozhodnutí a zhodnotit výsledky svých činů
+
+---
+
+*(K této kompetenci byly vytvořeny dva hodnotící listy a hodnotící tabulka...)*
+
+---
+
+<iframe src="https://voivy.github.io/other/hodnotici-list-stereometrie.pdf" height="100%" class="r-stretch">
+
+*(Stereometrie a zaměření na SŠ...)*
+
+---
+
+<iframe src="https://voivy.github.io/other/hodnotici-list-pomer.pdf" height="100%" class="r-stretch">
+
+*(Poměr a zaměření na ZŠ...)*
+
+---
+
+<iframe src="https://voivy.github.io/other/hodnotici-tabulka-pomer.pdf" height="100%" class="r-stretch">
+
+*(A odpovídající hodnotící tabulka...)*
+
+---
+
+> „Nejlepší je řečník, který málo slovy hodně řekne.“
+>
+>—
+>
+> *latinské přísloví*
 
 ---
 
@@ -208,4 +294,24 @@ Tolik věcí, že se to na tento slide nevejde!
 
 ---
 
+*(Pokyny k praktické aktivitě budou sděleny ústně...)*
 
+---
+
+> „Lepší hrůzný konec než hrůza bez konce.“
+>
+>—
+>
+> *Ladislav Klíma*
+
+---
+
+# Děkujeme za pozornost
+
+---
+
+*(A abychom nezapomněli – následuje odkaz na tuto prezentaci, včetně hodnotících listů...)*
+
+---
+
+<img src="slides-img/qr-sd-2.png" alt="QR kód odkazující na tuto prezentaci" class="r-stretch">
