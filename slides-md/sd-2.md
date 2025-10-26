@@ -262,7 +262,7 @@ Tolik věcí, že se to na tento slide nevejde! <!-- .element: class="fragment" 
 
 ---
 
-*(K tomuto hodnotícímu listu vzniká i odpovídající hodnotící tabulka...)*
+*(K tomuto hodnotícímu listu byla vytvořena i odpovídající hodnotící tabulka...)*
 
 ---
 
