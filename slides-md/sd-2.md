@@ -214,22 +214,6 @@ Tolik věcí, že se to na tento slide nevejde! <!-- .element: class="fragment" 
 
 ---
 
-*(K této kompetenci byly vytvořeny dva hodnotící listy...)*
-
----
-
-<iframe src="https://voivy.github.io/other/hodnotici-list-funkce.pdf" height="100%" class="r-stretch">
-
-*(Funkce a zaměření na SŠ...)*
-
----
-
-<iframe src="https://voivy.github.io/other/hodnotici-list-procenta.pdf" height="100%" class="r-stretch">
-
-*(Procenta a zaměření na ZŠ...)*
-
----
-
 ### Kompetence občanská
 
 = žák by měl... <!-- .element: class="fragment" data-fragment-index="2" -->
@@ -256,25 +240,45 @@ Tolik věcí, že se to na tento slide nevejde! <!-- .element: class="fragment" 
 
 ---
 
-*(K této kompetenci byly vytvořeny dva hodnotící listy a hodnotící tabulka...)*
+*(K těmto kompetencím byly vytvořeny celkem 4 hodnotící listy...)*
 
 ---
 
-<iframe src="https://voivy.github.io/other/hodnotici-list-stereometrie.pdf" height="100%" class="r-stretch">
+<img src="slides-img/qr-pdf-1.png" alt="QR kód odkazující na PDF všech přiložených dokumentů" class="r-stretch">
 
-*(Stereometrie a zaměření na SŠ...)*
+---
+
+*(Dva z nich jsou zaměřeny na ZŠ...)*
+
+---
+
+<iframe src="https://voivy.github.io/other/hodnotici-list-procenta.pdf" height="100%" class="r-stretch">
+
 
 ---
 
 <iframe src="https://voivy.github.io/other/hodnotici-list-pomer.pdf" height="100%" class="r-stretch">
 
-*(Poměr a zaměření na ZŠ...)*
+
+---
+
+*(K tomuto hodnotícímu listu vzniká i odpovídající hodnotící tabulka...)*
 
 ---
 
 <iframe src="https://voivy.github.io/other/hodnotici-tabulka-pomer.pdf" height="100%" class="r-stretch">
 
-*(A odpovídající hodnotící tabulka...)*
+---
+
+*(Zbývající dva hodnotící listy jsou zaměřeny na SŠ...)*
+
+---
+
+<iframe src="https://voivy.github.io/other/hodnotici-list-funkce.pdf" height="100%" class="r-stretch">
+
+---
+
+<iframe src="https://voivy.github.io/other/hodnotici-list-stereometrie.pdf" height="100%" class="r-stretch">
 
 ---
 
@@ -294,7 +298,7 @@ Tolik věcí, že se to na tento slide nevejde! <!-- .element: class="fragment" 
 
 ---
 
-*(Pokyny k praktické aktivitě budou sděleny ústně...)*
+*(Pokyny k praktické aktivitě budou sděleny verbálně...)*
 
 ---
 
@@ -310,7 +314,7 @@ Tolik věcí, že se to na tento slide nevejde! <!-- .element: class="fragment" 
 
 ---
 
-*(A abychom nezapomněli – následuje odkaz na tuto prezentaci, včetně hodnotících listů...)*
+*(A abychom nezapomněli – následuje odkaz na tuto prezentaci...)*
 
 ---
 
