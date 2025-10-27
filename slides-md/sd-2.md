@@ -214,7 +214,7 @@ Tolik věcí, že se to na tento slide nevejde! <!-- .element: class="fragment" 
 
 ---
 
-### Kompetence občanská
+### Kompetence k řešení problémů
 
 = žák by měl... <!-- .element: class="fragment" data-fragment-index="2" -->
 
